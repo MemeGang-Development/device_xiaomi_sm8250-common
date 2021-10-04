@@ -78,3 +78,6 @@ ro.miui.notch=1
 
 # Disable blur on app launch
 ro.launcher.blur.appLaunch=0
+
+# Disable vsync for cpu rendered apps
+debug.cpurend.vsync=false
