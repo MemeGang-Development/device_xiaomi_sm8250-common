@@ -4,3 +4,7 @@ persist.sys.sf.disable_blurs=1
 
 # Dex2oat
 dalvik.vm.dex2oat64.enabled=true
+
+# VulkanAPI
+graphics.gpu.profiler.support=true
+graphics.gpu.profiler.vulkan_layer_apk=com.google.pixel.coral.gpuprofiling.vulkanlayer
