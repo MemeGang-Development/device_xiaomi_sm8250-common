@@ -14,4 +14,6 @@ graphics.gpu.profiler.support=true
 graphics.gpu.profiler.vulkan_layer_apk=com.google.pixel.redbull.gpuprofiling.vulkanlayer
 
 # Graphics
-debug.hwui.renderer=skiavk
+debug.hwui.renderer=skiagl
+debug.renderengine.backend=skiaglthreaded
+renderthread.skia.reduceopstasksplitting=true
