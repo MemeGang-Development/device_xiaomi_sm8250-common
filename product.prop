@@ -11,7 +11,7 @@ dalvik.vm.dex2oat64.enabled=true
 
 # VulkanAPI
 graphics.gpu.profiler.support=true
-graphics.gpu.profiler.vulkan_layer_apk=com.google.pixel.coral.gpuprofiling.vulkanlayer
+graphics.gpu.profiler.vulkan_layer_apk=com.google.pixel.redbull.gpuprofiling.vulkanlayer
 
 # Graphics
 debug.hwui.renderer=skiavk
