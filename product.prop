@@ -1,6 +1,5 @@
 # Blur
 ro.surface_flinger.supports_background_blur=1
-persist.sys.sf.disable_blurs=1
 
 # Audio (Dolby)
 debug.stagefright.omx_default_rank.sw-audio=16
