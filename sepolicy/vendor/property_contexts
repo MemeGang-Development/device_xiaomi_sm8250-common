@@ -43,4 +43,6 @@ persist.vendor.motor.                           u:object_r:vendor_motor_prop:s0
 ro.vendor.ril                                   u:object_r:vendor_public_vendor_default_prop:s0
 
 # Thermal
+sys.thermal.                                    u:object_r:vendor_thermal_normal_prop:s0
 vendor.sys.thermal.                             u:object_r:vendor_thermal_normal_prop:s0
+persist.sys.thermal.config                      u:object_r:vendor_thermal_normal_prop:s0
