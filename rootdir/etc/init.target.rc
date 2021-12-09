@@ -53,6 +53,9 @@ on init
     start logd
     chown system system /proc/last_kmsg
 
+    # Change permissions for /dev/diag
+    chmod 0666 /dev/diag
+
 on early-fs
     start vold
 
