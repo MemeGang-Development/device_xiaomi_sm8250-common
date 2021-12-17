@@ -242,6 +242,9 @@ vendor.power.pasr.enabled=false
 # Perf
 ro.vendor.extension_library=libqti-perfd-client.so
 
+# Pre-Rendering
+ro.vendor.perf.scroll_opt=true
+
 # Radio
 persist.radio.NO_STAPA=1
 persist.radio.VT_HYBRID_ENABLE=1
