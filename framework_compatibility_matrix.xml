@@ -37,7 +37,7 @@
 </hal>
 <hal format="hidl" optional="true">
     <name>android.hardware.media.c2</name>
-    <version>1.0</version>
+    <version>1.0-2</version>
     <interface>
         <name>IComponentStore</name>
         <instance>software</instance>
