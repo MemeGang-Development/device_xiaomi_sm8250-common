@@ -472,7 +472,6 @@ vendor/lib64/libqtikeymaster4.so|34e70f1fe15b7838b188e904b8b34ab1928bc1af
 vendor/lib64/libspcom.so|14f69e1c6ad4a6bbb5ea0b7e38e027ef1e7fc12a
 
 # Listen
-vendor/lib/hw/sound_trigger.primary.kona.so
 vendor/lib/libadpcmdec.so
 vendor/lib/libcapiv2svacnn.so
 vendor/lib/libcapiv2svarnn.so
