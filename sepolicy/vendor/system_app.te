@@ -23,6 +23,3 @@ allow system_app vendor_audio_data_file:file {read write create getattr append o
 
 # Allow Parts write thermals
 allow system_app sysfs_thermal:file rw_file_perms;
-
-# Allow KProfiles to be adjusted by a system app
-allow system_app sysfs_kprofiles:file rw_file_perms;
