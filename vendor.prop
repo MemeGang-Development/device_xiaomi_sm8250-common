@@ -245,6 +245,9 @@ ro.vendor.extension_library=libqti-perfd-client.so
 # Pre-Rendering
 ro.vendor.perf.scroll_opt=true
 
+# Printk
+persist.vendor.console.silent.config=1
+
 # Radio
 persist.radio.NO_STAPA=1
 persist.radio.VT_HYBRID_ENABLE=1
